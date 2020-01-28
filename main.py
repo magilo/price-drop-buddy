@@ -2,7 +2,7 @@
 """
 Created on Fri May  3 22:32:13 2019
 
-@author: m4mizery
+@author: magilo
 """
 
 #from bs4 import BeautifulSoup #look through html
