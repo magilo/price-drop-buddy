@@ -2,7 +2,7 @@
 """
 Created on Tue May  7 04:24:30 2019
 
-@author: m4mizery
+@author: magilo
 """
 from bs4 import BeautifulSoup
 import requests
